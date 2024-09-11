@@ -1,0 +1,12 @@
+C:\Users\wmilouchi\IdeaProjects\demo2\src\main\java\com\example\demo\usecases\user\create\CreateUserUseCase.java
+C:\Users\wmilouchi\IdeaProjects\demo2\src\main\java\com\example\demo\DewdropDemoApplication.java
+C:\Users\wmilouchi\IdeaProjects\demo2\src\main\java\com\example\demo\config\GlobalExceptionHandler.java
+C:\Users\wmilouchi\IdeaProjects\demo2\src\main\java\com\example\demo\config\DewdropDependencyInjection.java
+C:\Users\wmilouchi\IdeaProjects\demo2\src\main\java\com\example\demo\usecases\user\create\test.java
+C:\Users\wmilouchi\IdeaProjects\demo2\src\main\java\com\example\demo\aggregate\UserAggregate.java
+C:\Users\wmilouchi\IdeaProjects\demo2\src\main\java\com\example\demo\usecases\user\create\CreateUserController.java
+C:\Users\wmilouchi\IdeaProjects\demo2\src\main\java\com\example\demo\config\DewdropConfig.java
+C:\Users\wmilouchi\IdeaProjects\demo2\src\main\java\com\example\demo\message\command\user\UserCommand.java
+C:\Users\wmilouchi\IdeaProjects\demo2\src\main\java\com\example\demo\message\event\user\UserCreated.java
+C:\Users\wmilouchi\IdeaProjects\demo2\src\main\java\com\example\demo\message\event\user\UserEvent.java
+C:\Users\wmilouchi\IdeaProjects\demo2\src\main\java\com\example\demo\message\command\user\CreateUserCommand.java
